@@ -5,7 +5,7 @@
     "keywords": "esphome display",
     "repository": {
       "type": "git",
-      "url": "https://github.com/kdorff/esphome-display-panel.git"
+      "url": "https://github.com/manus2029/esphome-display-panel.git"
     },
     "authors": [
       {
@@ -13,7 +13,7 @@
       }
     ],
     "license": "MIT",
-    "homepage": "https://github.com/kdorff/esphome-display-panel",
+    "homepage": "https://github.com/manus2029/esphome-display-panel",
     "dependencies": {},
     "frameworks": "*",
     "platforms": "*"
