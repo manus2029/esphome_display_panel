@@ -18,7 +18,7 @@ Supports touch to adjust brightness.
 
 # How to use esphome-display-panel
 
-I will highlight the important features of the [tft-office](https://github.com/kdorff/esphome/tree/main/tft-office)
+I will highlight the important features of the [tft-office](https://github.com/manus2029/esphome/tree/main/tft-office)
 
 ## Getting started
 
