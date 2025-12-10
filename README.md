@@ -10,11 +10,11 @@ Sample ESPHome projects that use the DisplayPanel class:
 **Clock that uses the ill9341 TFT display + touchscreen, connected to Home Assistant to display time, temperature, etc.**
 Supports touch to adjust brightness.
 * Model and pics https://www.thingiverse.com/thing:5586412
-* Code https://github.com/kdorff/esphome/tree/main/guest-time-temp
+* Code https://github.com/manus2029/esphome/tree/main/guest-time-temp
 
 **Clock that uses an 2.42" SSD1306/SSD1309 OLED, connected to Home Assistant to display time, temperature, etc.**
 * Model and pics https://www.thingiverse.com/thing:5607245
-* Code https://github.com/kdorff/esphome/tree/main/tft-office
+* Code https://github.com/manus2029/esphome/tree/main/tft-office
 
 # How to use esphome-display-panel
 
@@ -36,7 +36,7 @@ esphome:
   includes:
     - tft-room-time-temp.h
   libraries:
-    esphome-display-panel=https://github.com/kdorff/esphome-display-panel.git#v0.0.14
+    esphome-display-panel=https://github.com/manus2029/esphome-display-panel.git#v0.0.14
 ```
 
 The `includes:` stanza is including the `tft-room-time-temp.h` file where we will be doing data initialization, state updates, drawing, etc.
